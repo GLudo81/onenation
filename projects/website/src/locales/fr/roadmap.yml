@@ -1,6 +1,6 @@
 intro:
   p1: |
-    Cette feuille de route (roadmap) est une note d'intention pour les développements futurs de One Nation. 
+    Cette feuille de route (roadmap) est une note d'intention pour les développements futurs de One Nation.
   p2: |
     La roadmap de référence, plus complète, se trouve sur la plateforme collaborative Github. Tout est open-source, alors si tu as des envies et des idées. N'hésite pas !
   version: Version actuelle
@@ -18,8 +18,8 @@ v1-0:
 v1-1:
   title: v1.1 (todo)
   todo: |
-    - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](#faq-projet-avatars) 
-    - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](#faq-projet-wouino)
+    - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](#faq-projet-avatars)
+    - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](#faq-projet-wouino)
     - Communiquer, partager, se rencontrer
 
 v2:
@@ -43,7 +43,7 @@ v4:
   todo: |
     - De plus en plus de personnes émancipées
     - De plus en plus d'Oasis
-    - De plus en plus de joie, beauté, confiance, bon sens, respect et de créativité sur Terre ! 
+    - De plus en plus de joie, beauté, confiance, bon sens, respect et de créativité sur Terre !
     
 vfinal:
   title: Version finale > Dissoudre
